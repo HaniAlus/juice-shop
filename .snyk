@@ -2,7 +2,7 @@
 version: v1.22.1
 # ignores vulnerabilities until expiry date; change duration by modifying expiry date
 ignore:
-  'snyk:lic:npm:goof:GPL-2.0':
+  'snyk:lic:npm:fuzzball:GPL-2.0':
     - '*':
         reason: test .snyk file
         expires: 2022-07-08T00:00:00.000Z
